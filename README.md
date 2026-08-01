@@ -1,2 +1,4 @@
-# clock-app-js-87
+# Clock App Js 87
+
 Digital clock updater script in JavaScript.
+
